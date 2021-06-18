@@ -17,7 +17,7 @@ Project is available online on Github Pages [here](https://michaltkacz.github.io
 
 ## Screenshots
 
-![](./images/image1.jpg)
+![](./images/image1.png)
 
 ## Technologies
 
