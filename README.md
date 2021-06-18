@@ -2,11 +2,42 @@
 
 > Landing page for imaginary company - Zmoothiee Drinks
 
-> Todo - finish readme
+- [Smoothie Delight](#smoothie-delight)
+  - [Demo](#demo)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Issues](#issues)
+  - [Status](#status)
+  - [Contact](#contact)
+  - [Images:](#images)
 
-# Sources
+## Demo
 
-Images:
+Project is available online on Github Pages [here](https://michaltkacz.github.io/smoothie-delight/).
+
+## Screenshots
+
+![](./images/image1.jpg)
+
+## Technologies
+
+- HTML / CSS / JS
+- [React 17.0.2](https://reactjs.org/) library.
+- [Material UI 4.11.4](https://material-ui.com/) front-end library.
+
+## Issues
+
+Page requires responsiveness improvements for big desktop screens.
+
+## Status
+
+Project is no longer developed; however responsiveness improvements will be made in the future.
+
+## Contact
+
+Created by [@michaltkacz](https://github.com/michaltkacz) - feel free to contact me!
+
+## Images:
 
 1. https://unsplash.com/photos/3OV0ft7mG_o
 2. https://unsplash.com/photos/4fNGdyHQHiE

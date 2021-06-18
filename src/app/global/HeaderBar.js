@@ -1,11 +1,3 @@
-import {
-  AppBar,
-  makeStyles,
-  Slide,
-  Toolbar,
-  Typography,
-} from '@material-ui/core';
-
 import React from 'react';
 
 import SmoothScrollLink from './SmoothScrollLink';
